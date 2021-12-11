@@ -28,6 +28,10 @@
 		"backgroundTextStyle": "light"
 	},
 	"tabBar":{
+		"color":"#A0522D",
+		"selectedColor":"#B3EE3A",
+		"backgroundColor":"#fff",
+		"borderStyle":"white",
 		"list":[
 			{
 				"text":"首页",
@@ -47,6 +51,6 @@
 				"iconPath":"static/tabs/contact.png",
 				"selectedIconPath":"static/tabs/contact-active.png"
 			}
-		]
+		] 
 	}
 }
